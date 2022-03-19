@@ -1,5 +1,7 @@
 ### Hola, I'm Purbayan  ! 👋
 
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Purbayan2014&label=Profile%20views&color=0e75b6&style=flat" alt="saeb-ai" /> </p>
 
 
