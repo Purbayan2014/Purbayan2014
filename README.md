@@ -11,7 +11,6 @@
   
 <p align="left"> <a href="https://twitter.com/XNS_07" target="blank"><img src="https://img.shields.io/twitter/follow/XNS_07?logo=twitter&style=for-the-badge" alt="Purbayan" /></a> </p>
   
-<p align="left"> <a href="https://twitter.com/XNS_07" target="blank"><img src="https://img.shields.io/twitter/follow/XNS_07?logo=twitter&style=for-the-badge" alt="Purbayan" /></a> </p>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
