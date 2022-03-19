@@ -1,5 +1,7 @@
 ### Hola, I'm Purbayan  ! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purbayan2014&label=Profile%20views&color=0e75b6&style=flat" alt="saeb-ai" /> </p>
+
 
 - 🔭 I’m currently working on Cryptography,Network-security and Malware analysis
 - 🌱 I’m currently learning Assembly
