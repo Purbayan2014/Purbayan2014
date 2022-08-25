@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on Tensorflow,Pytorch and MxNet
-- 🌱 I’m currently learning Pytorch
-- 👯 I’m looking to collaborate on Deep learning and Tensorflow 
+- 🌱 I’m currently learning Pytorch , ansible
+- 👯 I’m looking to collaborate on Deep learning ,Tensorflow and DevOp related projects
 - 💬 Ask me about Deep learning,Machine learning and Cryptography
 - 📫 How to reach me: <p align="center">
   <p align="center"> <a href="https://www.linkedin.com/in/purbayan-majumder-2799631a3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Purbayan" /></a> </p>  <p align="center"> <a href="https://twitter.com/XNS_07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Purbayan" /></a> </p>
