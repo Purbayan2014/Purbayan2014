@@ -2,11 +2,11 @@
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purbayan2014&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
+
 
 
 - 🔭 I’m currently working on Tensorflow,Pytorch and MxNet
-- 🌱 I’m currently learning Pytorch , ansible
+- 🌱 I’m currently learning Mxnet,Cuda Opencl and nim
 - 👯 I’m looking to collaborate on Deep learning ,Tensorflow and DevOp related projects
 - 💬 Ask me about Deep learning,Machine learning and Cryptography
 - 📫 How to reach me: <p align="center">
@@ -19,7 +19,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
