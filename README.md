@@ -50,7 +50,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Purbayan2014&theme=synthwave)](https://github.com/Purbayan2014)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Purbayan2014&hide=cython,html,javscript&theme=synthwave)](https://github.com/Purbayan2014)
 
 [![Purbayan's Top github stats](https://readme-stats.clckblog.space/api?username=Purbayan2014&theme=blue-green)](https://github.com/Purbayan2014)
 
