@@ -53,8 +53,4 @@
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Purbayan2014&hide=cython,html,javscript&theme=synthwave)](https://github.com/Purbayan2014)
 
 [![Purbayan's Top github stats](https://readme-stats.clckblog.space/api?username=Purbayan2014&theme=blue-green)](https://github.com/Purbayan2014)
-[![Purbayan's wakatime stats](https://readme-stats.clckblog.space/api/wakatime?username=Purbayan2014&theme=blue-green)](https://github.com/Purbayan2014/)
-
-
-
-
+[![Purbayan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Purbayan2014)](https://github.com/Purbayan2014/github-readme-stats)
