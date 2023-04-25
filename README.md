@@ -1,6 +1,6 @@
 ### Hola, I'm Purbayan  ! 👋
 
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -52,6 +52,18 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=purbayan2014&count_private=true&theme=tokyonight&showicons=true)
 
-[![Purbayan's Top github stats](https://readme-stats.clckblog.space/api?username=Purbayan2014&theme=blue-green)](https://github.com/Purbayan2014)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=purbayan2014&langs_count=10&theme=tokyonight&layout=compact)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=sequential-text-classification-using-deep-sequence-modelling)](https://github.com/Purbayan2014/Sequential-text-classification-using-deep-sequence-modelling)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=pseudo-igp-protocol)](https://github.com/Purbayan2014/Pseudo-IGP-protocol)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=openapi-ts)](https://github.com/Purbayan2014/openapi-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=django-phishing-predictor)](https://github.com/Purbayan2014/Django-Phishing-Predictor)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=emotion-classifier-aec-cnn)](https://github.com/Purbayan2014/Emotion-Classifier-AEC-CNN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=graphical-authentication)](https://github.com/Purbayan2014/Graphical-authentication)
 
