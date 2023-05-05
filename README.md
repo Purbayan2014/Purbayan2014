@@ -63,10 +63,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=openapi-ts)](https://github.com/Purbayan2014/openapi-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=django-phishing-predictor)](https://github.com/Purbayan2014/Django-Phishing-Predictor)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=emotion-classifier-aec-cnn)](https://github.com/Purbayan2014/Emotion-Classifier-AEC-CNN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=graphical-authentication)](https://github.com/Purbayan2014/Graphical-authentication)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=ScreenSiren)](https://github.com/Purbayan2014/ScreenSiren)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purbayan2014&repo=Job-Quest)](https://github.com/Purbayan2014/Job-Quest)
